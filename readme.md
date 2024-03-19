@@ -1,8 +1,8 @@
-### Coursework Repository
+## Coursework Repository
 
 This repository contains coursework materials for a machine learning project. Below is a guide to help you navigate through the files and set up the environment for running the provided code
 
-## Contents
+### Contents
 
 1. **Notebooks:**
    - `Neural Network Notebook Humza Khan.ipynb`: Coursework notebook containing machine learning models
@@ -16,7 +16,7 @@ This repository contains coursework materials for a machine learning project. Be
 3. **Other Files:**
    - `requirements.txt`: List of required Python packages
 
-## Setup Instructions
+### Setup Instructions
 
 If you wish to recreate the environment and run the code, follow these steps:
 
@@ -57,7 +57,7 @@ If you wish to recreate the environment and run the code, follow these steps:
      jupyter notebook
      ```
 
-## Loading Trained Models
+### Loading Trained Models
 
 To load the trained MLP and SVM models, follow these instructions:
 
@@ -71,6 +71,6 @@ To load the trained MLP and SVM models, follow these instructions:
    - For MLP model: Execute Cell 121 to load `mlpgrid.sav`
    - For SVM model: Execute Cell 138 to load `svmgrid.sav`
 
-## Note
+### Note
 
 Make sure you have the necessary dependencies installed and the Jupyter notebook is configured with the virtual environment kernel before running the provided code
