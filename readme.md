@@ -1,4 +1,3 @@
-## Coursework Repository
 This repository contains coursework materials for a machine learning project. Below is a guide to help you navigate through the files and set up the environment for running the provided code
 
 ### Contents
